@@ -5,5 +5,8 @@ High School, Vijaypura.<br>
 -completed 12th from Government College, Vijaypura.<br>
 -Pursuing a BCA degree from BLDE Association's A. S. Patil 
 College of Commerce(Autonomous).
+## Author
+Vijay A Rathod
+
 
 
