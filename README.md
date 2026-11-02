@@ -1,10 +1,12 @@
 # About Me
 ## About My Academics
-*Completed 10th from SPGME Society(R) M. M. Biradar
+->Completed 10th from SPGME Society(R) M. M. Biradar
 High School, Vijaypura.<br>
--completed 12th from Government College, Vijaypura.<br>
--Pursuing a BCA degree from BLDE Association's A. S. Patil 
+->completed 12th from Government College, Vijaypura.<br>
+->Pursuing a BCA degree from BLDE Association's A. S. Patil 
 College of Commerce(Autonomous).
+## Milestone 
+-> Got the best student <br> Award
 ## Author
 Vijay A Rathod
 
